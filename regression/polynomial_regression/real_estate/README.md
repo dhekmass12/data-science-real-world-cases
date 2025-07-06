@@ -1,2 +1,2 @@
-## Source
-https://www.kaggle.com/datasets/ashydv/advertising-dataset?resource=download
+## Dataset Source
+https://www.kaggle.com/code/aminizahra/polynomial-regression/input
